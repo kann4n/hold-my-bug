@@ -3,7 +3,8 @@
   "displayName": "Hold My Bug🪲",
   "description": "Randomly inserts bug and funny emojis while you code.",
   "version": "0.0.1",
-   "publisher": "kannan-codes",
+  "publisher": "kannan-codes",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/kann4n/hold-my-bug.git"
