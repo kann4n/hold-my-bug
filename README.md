@@ -1,71 +1,59 @@
-# hold-my-bug README
 
-This is the README for your extension "hold-my-bug". After writing up a brief description, we recommend including the following sections.
+-----
+
+# Hold My Bug🪲
+
+A perfectly useless VS Code extension that randomly inserts emojis, typos, and sarcastic comments into your code, providing the ultimate distraction for developers who are tired of productive coding.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Hold My Bug is more than a simple extension; it's a commitment to chaos. It’s designed to challenge your focus and inject an element of fun into the monotonous task of debugging.
 
-For example if there is an image subfolder under your extension project workspace:
+### Core Commands
 
-\!\[feature X\]\(images/feature-x.png\)
+You can activate the extension's chaos using the VS Code Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+  * `Hold My Bug: Start Inserting Emojis`: Activates the regular mode, which inserts emojis on a timer and after a certain number of characters are typed.
+  * `Hold My Bug: Extreme Mode`: For a truly chaotic experience, this command drastically increases the frequency of emoji insertions.
+  * `Hold My Bug: Stop Inserting Emojis`: Pauses all emoji and bug insertion activity.
+
+### Useless Commands
+
+These commands exist solely to make your life harder in the most entertaining way possible.
+
+  * `Hold My Bug: Activate Useless Mode`: Inserts a random, useless message or emoji into your code, pretending to be helpful.
+  * `Hold My Bug: Introduce a Random Typo`: Replaces a single character in your code with a random character, creating a bug that is both small and incredibly frustrating to find.
+  * `Hold My Bug: Add a Sarcastic Comment`: Inserts a snarky, unhelpful comment at a random location, questioning your life choices and coding abilities.
+
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/yf4ER0bCGA8/0.jpg)](https://youtu.be/yf4ER0bCGA8?si=PXZVXN3pP08_x0Z1)
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+This extension has no dependencies. Simply install it and prepare for a bug-filled adventure.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+This extension has no configurable settings. Its chaos cannot be tamed.
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+  * None at this time. This extension works exactly as intended: to be as useless as possible.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
-Initial release of ...
+  * Initial release of Hold My Bug🪲.
+  * Includes commands for starting and stopping emoji insertion, and a Useless Mode for maximum distraction.
 
 ### 1.0.1
 
-Fixed issue #.
+  * Added a new Extreme Mode command to accelerate the bug-insertion rate.
+  * Introduced the Introduce a Random Typo command for a classic debugging challenge.
+  * Implemented the Add a Sarcastic Comment command to keep you humble.
 
-### 1.1.0
+-----
 
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Thanks for using Hold My Bug\! 🤡**

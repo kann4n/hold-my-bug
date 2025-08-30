@@ -14,8 +14,28 @@
   "contributes": {
     "commands": [
       {
-        "command": "hold-my-bug.helloWorld",
-        "title": "Hello World"
+        "command": "hold-my-bug.start",
+        "title": "Hold My Bug: Start Inserting Emojis"
+      },
+      {
+        "command": "hold-my-bug.stop",
+        "title": "Hold My Bug: Stop Inserting Emojis"
+      },
+      {
+        "command": "hold-my-bug.extreme",
+        "title": "Hold My Bug: Extreme Mode"
+      },
+      {
+        "command": "hold-my-bug.useless-mode",
+        "title": "Hold My Bug: Activate Useless Mode"
+      },
+      {
+        "command": "hold-my-bug.introduce-typo",
+        "title": "Hold My Bug: Introduce a Random Typo"
+      },
+      {
+        "command": "hold-my-bug.sarcastic-comment",
+        "title": "Hold My Bug: Add a Sarcastic Comment"
       }
     ]
   },
